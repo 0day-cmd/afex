@@ -1,2 +1,2 @@
-# afex
-Undetectable Malware For Linux :)
+# Afex (Undetectable Malware For Linux)
+
